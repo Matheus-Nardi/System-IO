@@ -1,0 +1,14 @@
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\obj\Debug\net7.0\Aula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\obj\Debug\net7.0\Aula07.AssemblyInfoInputs.cache
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\obj\Debug\net7.0\Aula07.AssemblyInfo.cs
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\obj\Debug\net7.0\Aula07.csproj.CoreCompileInputs.cache
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\bin\Debug\net7.0\Aula07.exe
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\bin\Debug\net7.0\Aula07.deps.json
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\bin\Debug\net7.0\Aula07.runtimeconfig.json
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\bin\Debug\net7.0\Aula07.dll
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\bin\Debug\net7.0\Aula07.pdb
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\obj\Debug\net7.0\Aula07.dll
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\obj\Debug\net7.0\refint\Aula07.dll
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\obj\Debug\net7.0\Aula07.pdb
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\obj\Debug\net7.0\Aula07.genruntimeconfig.cache
+C:\Users\55639\Área de Trabalho\System-IO\Aula07\obj\Debug\net7.0\ref\Aula07.dll
