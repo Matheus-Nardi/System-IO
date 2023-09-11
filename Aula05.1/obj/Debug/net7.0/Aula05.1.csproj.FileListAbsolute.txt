@@ -1,0 +1,14 @@
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\bin\Debug\net7.0\Aula05.1.exe
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\bin\Debug\net7.0\Aula05.1.deps.json
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\bin\Debug\net7.0\Aula05.1.runtimeconfig.json
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\bin\Debug\net7.0\Aula05.1.dll
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\bin\Debug\net7.0\Aula05.1.pdb
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\obj\Debug\net7.0\Aula05.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\obj\Debug\net7.0\Aula05.1.AssemblyInfoInputs.cache
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\obj\Debug\net7.0\Aula05.1.AssemblyInfo.cs
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\obj\Debug\net7.0\Aula05.1.csproj.CoreCompileInputs.cache
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\obj\Debug\net7.0\Aula05.1.dll
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\obj\Debug\net7.0\refint\Aula05.1.dll
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\obj\Debug\net7.0\Aula05.1.pdb
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\obj\Debug\net7.0\Aula05.1.genruntimeconfig.cache
+C:\Users\55639\Área de Trabalho\Deus\Aula05.1\obj\Debug\net7.0\ref\Aula05.1.dll
