@@ -1,0 +1,6 @@
+   Contornos ligados: 1-1 | Ponto central: 1-2 
+   Linhas internas: 0-0- 0-0 | Linhas externas: desligadas 
+   Cor: Ciano | Código: 0;P;c;5;u;FFA500FF;o;1;d;1;0b;0;1b;0
+
+
+
