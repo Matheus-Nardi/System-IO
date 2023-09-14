@@ -17,7 +17,7 @@ class Program
                 
                 case "sim" : 
                 Console.WriteLine("Excluindo...");
-                Directory.Delete("Teste"); // Deketando diretorio
+                Directory.Delete("Teste"); // Deletando diretorio
                 break;
 
                 case "nao" :

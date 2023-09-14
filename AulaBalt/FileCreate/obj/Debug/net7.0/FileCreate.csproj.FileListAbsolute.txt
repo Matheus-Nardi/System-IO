@@ -1,0 +1,14 @@
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\bin\Debug\net7.0\FileCreate.exe
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\bin\Debug\net7.0\FileCreate.deps.json
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\bin\Debug\net7.0\FileCreate.runtimeconfig.json
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\bin\Debug\net7.0\FileCreate.dll
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\bin\Debug\net7.0\FileCreate.pdb
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\obj\Debug\net7.0\FileCreate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\obj\Debug\net7.0\FileCreate.AssemblyInfoInputs.cache
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\obj\Debug\net7.0\FileCreate.AssemblyInfo.cs
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\obj\Debug\net7.0\FileCreate.csproj.CoreCompileInputs.cache
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\obj\Debug\net7.0\FileCreate.dll
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\obj\Debug\net7.0\refint\FileCreate.dll
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\obj\Debug\net7.0\FileCreate.pdb
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\obj\Debug\net7.0\FileCreate.genruntimeconfig.cache
+C:\Users\55639\Área de Trabalho\System-IO\AulaBalt\FileCreate\obj\Debug\net7.0\ref\FileCreate.dll

@@ -1,0 +1,14 @@
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\bin\Debug\net7.0\Aula13.1.exe
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\bin\Debug\net7.0\Aula13.1.deps.json
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\bin\Debug\net7.0\Aula13.1.runtimeconfig.json
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\bin\Debug\net7.0\Aula13.1.dll
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\bin\Debug\net7.0\Aula13.1.pdb
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\obj\Debug\net7.0\Aula13.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\obj\Debug\net7.0\Aula13.1.AssemblyInfoInputs.cache
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\obj\Debug\net7.0\Aula13.1.AssemblyInfo.cs
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\obj\Debug\net7.0\Aula13.1.csproj.CoreCompileInputs.cache
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\obj\Debug\net7.0\Aula13.1.dll
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\obj\Debug\net7.0\refint\Aula13.1.dll
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\obj\Debug\net7.0\Aula13.1.pdb
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\obj\Debug\net7.0\Aula13.1.genruntimeconfig.cache
+C:\Users\55639\Área de Trabalho\System-IO\Aula13.1\obj\Debug\net7.0\ref\Aula13.1.dll
